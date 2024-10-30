@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @j-burdis
-- 👀 I’m interested in web development, focusing on full-stack technologies and building scalable, efficient applications.
-- 🌱 I’m learning JavaScript, Ruby on Rails, and modern deployment strategies through Le Wagon’s coding bootcamp.
-- 💞️ I’m looking to collaborate on innovative web applications, particularly in areas that improve user experience or efficiency.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-burdis/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I transitioned from a background in chemistry and energy into tech after travelling in Central & South America!
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQwa2ljcnMweWthbnJpdHp1OGNqd3drNjN1Y[…]MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="man coding">
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/jonathan-burdis/"><img src="https://img.shields.io/badge/LinkedIn-21D588?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Button"></a>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=j-burdis&style=for-the-badge&color=21D588" alt="Views Counter"/>
+  </div>
+  <h2>Hello, I'm Jonathan 👋</h2>
+</div>
 
-<!---
-j-burdis/j-burdis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🕸️ About me:
+Software developer looking to grow my skillset 🌱
+- 🏠 Based in Newcastle but open to new locations
+- 🛠️ Motivated to build impactful & scalable applications improving UX and efficiency
+- 🧑‍💻 Currently honing my Ruby on Rails knowledge and looking to advance my JavaScript
+- 🌎 Fun fact: I transitioned into tech after travelling through Central & South America!
+
+---
+
+### 📚 Tech Stack:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rails,ruby,js,html,css,sass,heroku,postgres,git">
+</div>
+
+---
+
+### 📊 My Stats:
+
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=j-burdis&show_icons=true&theme=vue-dark">
+</div>
+
+---
