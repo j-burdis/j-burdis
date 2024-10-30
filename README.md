@@ -27,8 +27,8 @@ Software developer looking to grow my skillset 🌱
 ### 📊 My Stats:
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-burdis&layout=compact&theme=vue-dark"> 
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=j-burdis&show_icons=true&theme=vue-dark">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-burdis&layout=compact&theme=vue-dark" style="display: inline-block; margin-right: 10px;"> 
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=j-burdis&show_icons=true&theme=vue-dark" style="display: inline-block">
 </div>
 
 ---
