@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img height=400 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQwa2ljcnMweWthbnJpdHp1OGNqd3drNjN1Y[…]MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="man coding">
+  <img height=300 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQwa2ljcnMweWthbnJpdHp1OGNqd3drNjN1Y[…]MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="man coding">
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/jonathan-burdis/"><img src="https://img.shields.io/badge/LinkedIn-21D588?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Button"></a>
     <br>
